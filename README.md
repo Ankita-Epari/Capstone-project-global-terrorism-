@@ -22,4 +22,4 @@ Synthetic Minority Over-sampling Technique
 
 Evaluation of the models
 
-Application of the model and advantages of i
+Application of the model and advantages of it
